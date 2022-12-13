@@ -1,0 +1,3 @@
+nombre: Aarón Pesqueira Fariña
+email: aaronpesqueirafarina@gmail.com
+username github: aronaldo9
